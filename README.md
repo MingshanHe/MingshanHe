@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
+<p align="center">
   <a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
   </a>
