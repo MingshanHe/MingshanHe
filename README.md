@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/MingshanHe?tab=repositories">
     <img src="https://badges.pufler.dev/repos/MingshanHe?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/MingshanHe">
+  <!-- <a href="https://gist.github.com/MingshanHe">
     <img src="https://badges.pufler.dev/gists/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
+  </a> -->
   <a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/commits/monthly/MingshanHe?style=flat-square&color=black&logo=github">
   </a>
