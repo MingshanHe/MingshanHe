@@ -5,16 +5,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
 
-
-A junior student 👨‍💻 from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
- 
-- 😄 Any questions about my repositories are welcome！
-- 🏫 Undergraduate School: Northeastern University
-- 🌱 Major: Robot Science and Engineering
-- 📃 More information please see [Resume](https://zacdeng.github.io)
-- 📫 How to reach me: zacdeng0720@gmail.com
-
-
 <p align="right">
   <a href="https://github.com/MingshanHe" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
@@ -24,7 +14,33 @@ A junior student 👨‍💻 from Northeastern University 🏫 and now studying 
   </a>
 
 </p>
+A junior student 👨‍💻 from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
+ 
+- 😄 Any questions about my repositories are welcome！
+- 🏫 Undergraduate School: Northeastern University
+- 🌱 Major: Robot Science and Engineering
+- 📃 More information please see [Resume](https://zacdeng.github.io)
+- 📫 How to reach me: zacdeng0720@gmail.com
 
+
+
+ <p align="center">
+  <!--<a href="https://github.com/MingshanHe">
+    <img src="https://badges.pufler.dev/visits/MingshanHe/MingshanHe?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/MingshanHe">
+    <img src="https://badges.pufler.dev/years/MingshanHe?style=flat-square&color=black&logo=github">
+  </a>-->
+  <a href="https://github.com/MingshanHe?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/MingshanHe?style=flat-square&color=black&logo=github">
+  </a>
+  <!-- <a href="https://gist.github.com/MingshanHe">
+    <img src="https://badges.pufler.dev/gists/MingshanHe?style=flat-square&color=black&logo=github">
+  </a> -->
+  <a href="https://github.com/MingshanHe">
+    <img src="https://badges.pufler.dev/commits/monthly/MingshanHe?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 <h2></h2>
 
