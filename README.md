@@ -14,7 +14,7 @@
   </a>
 
 </p>
-<p align="left>
+
   A junior student 👨‍💻 from Northeastern University 🏫
   and now studying in Robot Science and Engineering 🤖.
 
@@ -23,7 +23,7 @@
   - 🌱 Major: Robot Science and Engineering
   - 📃 More information please see [Resume](https://zacdeng.github.io)
   - 📫 How to reach me: zacdeng0720@gmail.com
-</p>
+
 
 
 
