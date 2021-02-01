@@ -14,8 +14,8 @@
   </a>
 
 </p>
-- A junior student 👨‍💻 from Northeastern University 🏫 
-- and now studying in Robot Science and Engineering 🤖.
+<a>A junior student 👨‍💻 from Northeastern University 🏫</a> 
+<a>and now studying in Robot Science and Engineering 🤖.</a>
  
 - 😄 Any questions about my repositories are welcome！
 - 🏫 Undergraduate School: Northeastern University
