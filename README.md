@@ -15,14 +15,14 @@
 
 </p>
 <p align="left>
-<p>A junior student 👨‍💻 from Northeastern University 🏫</p> 
-<p>and now studying in Robot Science and Engineering 🤖.</p>
- 
-- 😄 Any questions about my repositories are welcome！
-- 🏫 Undergraduate School: Northeastern University
-- 🌱 Major: Robot Science and Engineering
-- 📃 More information please see [Resume](https://zacdeng.github.io)
-- 📫 How to reach me: zacdeng0720@gmail.com
+  <p>A junior student 👨‍💻 from Northeastern University 🏫</p> 
+  <p>and now studying in Robot Science and Engineering 🤖.</p>
+
+  - 😄 Any questions about my repositories are welcome！
+  - 🏫 Undergraduate School: Northeastern University
+  - 🌱 Major: Robot Science and Engineering
+  - 📃 More information please see [Resume](https://zacdeng.github.io)
+  - 📫 How to reach me: zacdeng0720@gmail.com
 </p>
 
 
