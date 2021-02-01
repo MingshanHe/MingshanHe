@@ -15,15 +15,14 @@ A junior student 👨‍💻 from Northeastern University 🏫 and now studying 
 - 📫 How to reach me: zacdeng0720@gmail.com
 
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/MingshanHe" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
   </a>
-</p>
-<p align="center">
+ <p align="center">
   <!--<a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/visits/MingshanHe/MingshanHe?style=flat-square&color=black&logo=github">
   </a>
@@ -40,6 +39,8 @@ A junior student 👨‍💻 from Northeastern University 🏫 and now studying 
     <img src="https://badges.pufler.dev/commits/monthly/MingshanHe?style=flat-square&color=black&logo=github">
   </a>
 </p>
+</p>
+
 
 <h2></h2>
 
