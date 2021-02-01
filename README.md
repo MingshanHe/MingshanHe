@@ -1,18 +1,19 @@
 <!-- ### Hi, <a href="https://charmve.github.io/" target="_blank">there</a> 👋 -->
 
 
-**Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋, I am Beal. Mingshan He 😀.
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width='400"' />
+
+A junior student 👨‍💻 from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
+ 
+- 😄 Any questions about my repositories are welcome！
+- 🏫 Undergraduate School: Northeastern University
+- 🌱 Major: Robot Science and Engineering
+- 📃 More information please see [Resume](https://zacdeng.github.io)
+- 📫 How to reach me: zacdeng0720@gmail.com
 
 
 <p align="center">
