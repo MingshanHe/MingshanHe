@@ -22,23 +22,7 @@ A junior student 👨‍💻 from Northeastern University 🏫 and now studying 
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
   </a>
- <p align="center">
-  <!--<a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/visits/MingshanHe/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/years/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>-->
-  <a href="https://github.com/MingshanHe?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
-  <!-- <a href="https://gist.github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/gists/MingshanHe?style=flat-square&color=black&logo=github">
-  </a> -->
-  <a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/commits/monthly/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 </p>
 
 
