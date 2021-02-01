@@ -18,8 +18,8 @@
   - 😄 Any questions about my repositories are welcome！
   - 🏫 Undergraduate School: Northeastern University
   - 🌱 Major: Robot Science and Engineering
-  - 📃 More information please see [Resume](https://zacdeng.github.io)
-  - 📫 How to reach me: zacdeng0720@gmail.com
+  - 📃 More information please see [Resume](https://www.roboticlabofmingshan.com)
+  - 📫 How to reach me: hemingshan1999@gmail.com
 
 
 
