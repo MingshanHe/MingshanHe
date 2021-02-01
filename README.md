@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MingshanHe">
+  <!--<a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/visits/MingshanHe/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
+  </a>-->
   <a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/years/MingshanHe?style=flat-square&color=black&logo=github">
   </a>
