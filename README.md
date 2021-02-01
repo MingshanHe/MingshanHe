@@ -41,14 +41,13 @@
 
 
 <p>
- <p align = "right">
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 <code><img height="20" src="ROS\ros.jfif" alt="ROS"></code>
-</p>
+
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
@@ -59,7 +58,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
-<p align = "left">
+<p align = "right">
  <a href="https://github.com/MingshanHe" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
     <!-- &hide=issues
