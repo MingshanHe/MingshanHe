@@ -5,16 +5,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
 
-<p align="right">
-  <a href="https://github.com/MingshanHe" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
 
-</p>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
   A junior student 👨‍💻 from Northeastern University 🏫
   and now studying in Robot Science and Engineering 🤖.
 
@@ -47,7 +39,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
  
 **Languages and Frameworks**
 
@@ -65,3 +57,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
+<p align="right">
+  <a href="https://github.com/MingshanHe" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    -->
+  </a>
+
+</p>
