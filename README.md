@@ -16,7 +16,7 @@
   and now studying in Robot Science and Engineering 🤖.
 
   - 😄 Any questions about my repositories are welcome！
-  - 🏫 Undergraduate School: Northeastern University
+  - 🏫 Bachelor: Northeastern University
   - 🌱 Major: Robot Science and Engineering
   - 📃 More information please see [Resume](http://www.roboticlabofmingshan.com/)
   - 📫 How to reach me: hemingshan1999@gmail.com
