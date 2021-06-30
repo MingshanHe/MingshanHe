@@ -12,10 +12,9 @@
     -->
  </a>
 
-  A junior student 👨‍💻 from Northeastern University 🏫
-  and now studying in Robot Science and Engineering 🤖.
+  A Control Engineer 👨‍💻 in ROKAE (Beijing) Technology Co.,LTD 🏢
+  and now woking in Robot Control Algorithm and Engineering 🤖.
 
-  - 😄 Any questions about my repositories are welcome！
   - 🏫 Bachelor: Northeastern University
   - 🌱 Major: Robot Science and Engineering
   - 📃 More information please see [Resume](http://www.roboticlabofmingshan.com/)
