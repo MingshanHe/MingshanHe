@@ -17,13 +17,7 @@
   - 📫 Reach me by: [![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
   - 📺 Welcome to Subscribe:![Youtube](https://img.shields.io/youtube/channel/views/UCMxkSIW9_rlEjHUxyxfqFQg?style=social)
   - 🇨🇳 Wechat ID: `neu_hms`
-
-
-
-
-
-
-
+  - 🇨🇳 QQ ID: `1020509051`
 
 
 <h2></h2>
