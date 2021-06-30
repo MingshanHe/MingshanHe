@@ -6,12 +6,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
 
 
-
-  A Control Engineer 👨‍💻 in ROKAE (Beijing) Technology Co.,LTD 🏢 and now woking in Robot Control Algorithm and Engineering 🤖.
-
  <a href="https://github.com/MingshanHe" class="rich-diff-level-one" >
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
  </a>
+  A Control Engineer 👨‍💻 in ROKAE (Beijing) Technology Co.,LTD 🏢 and now woking in Robot Control Algorithm and Engineering 🤖.
+
   - 🏫 Bachelor: Northeastern University
   - 🌱 Major: Robot Science and Engineering
   - 📃 More information please see [Resume](http://www.roboticlabofmingshan.com/)
