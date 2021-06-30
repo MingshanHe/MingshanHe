@@ -16,6 +16,7 @@
   - 🌱 Major: Robot Science and Engineering
   - 📃 More information please see [Resume](http://www.roboticlabofmingshan.com/)
   - 📫 Reach me by: hemingshan1999@gmail.com
+  - 📺 Welcome to Subscribe Youtube Channel:[(!https://img.shields.io/youtube/channel/views/UCMxkSIW9_rlEjHUxyxfqFQg?style=social)]
   - 🇨🇳 Wechat ID: neu_hms
 
 
