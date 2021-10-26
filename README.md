@@ -2,7 +2,7 @@
 
 
 ### Hey 👋, I am Beal. Mingshan He 😀.
-  I have graduated from Faculty  of Robot Science and Engineering, Northeastern University, at June, 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and will work as Research Assistant in Machine Intelligence Lab(Advisor: Prof. Donglin Wang).
+  I have graduated from Faculty  of Robot Science and Engineering, Northeastern University, at June, 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and now work in Hangzhou.
 
 
 
