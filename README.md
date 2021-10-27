@@ -1,8 +1,8 @@
 <!-- ### Hi, <a href="https://charmve.github.io/" target="_blank">there</a> 👋 -->
 
 
-### Hey 👋, I am Beal. Mingshan He 😀.
-  I have graduated from Faculty  of Robot Science and Engineering, Northeastern University, at June, 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and now work in Hangzhou.
+### Hey 👋, I am Mingshan (Beal) He 😀.
+  I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and now work in Hangzhou. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, and welcome to share your mind with me.
 
 
 
@@ -55,15 +55,4 @@
   <a href="https://github.com/MingshanHe">
     <img src="https://badges.pufler.dev/years/MingshanHe?style=flat-square&color=black&logo=github">
   </a>-->
-  <a href="https://github.com/MingshanHe?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
-  <!-- <a href="https://gist.github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/gists/MingshanHe?style=flat-square&color=black&logo=github">
-  </a> -->
-  <a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/commits/monthly/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
 </p>
-
-
