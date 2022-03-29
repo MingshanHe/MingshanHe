@@ -14,9 +14,7 @@
 
 🇨🇳 wechat ID: `neu_hms`
 
-:soccer: Team: Northeastern University 
-
-​				  Zhejiang University
+:soccer: Team: 东北大学 浙江大学
 
 
 <h2></h2>
