@@ -4,20 +4,8 @@
 ### Hey 👋, I am Mingshan (Beal) He 😀.
   I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and now work in Prof Yuzhe Li's group as research assistant, NEU. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, and welcome to share your mind with me.
 
-
-
- <a href="https://github.com/MingshanHe" class="rich-diff-level-one" >
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >
- </a>
-
-
-  - 🏫 Bachelor: Northeastern University
-  - 🌱 Major: Robot Science and Engineering
-  - 📃 More information please see [Resume](http://www.roboticlabofmingshan.com/)
-  - 📫 Reach me by: [![Gmail Badge](https://img.shields.io/badge/-hemingshan1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemingshan1999@gmail.com)](mailto:hemingshan1999@gmail.com)
-  - 📺 Welcome to Subscribe:![Youtube](https://img.shields.io/youtube/channel/views/UCMxkSIW9_rlEjHUxyxfqFQg?style=social)
-  - 🇨🇳 Wechat ID: `neu_hms`
-  - 🇨🇳 QQ ID: `1020509051`
+| 🏫 Bachelor: Northeastern University<br />🌱 Major: Robot Engineering<br />📫 Reach me by: [![Gmail Badge](https://img.shields.io/badge/-mshe.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshe.research@gmail.com)](mailto:mshe.research@gmail.com)<br />🇨🇳 wechat ID: `neu_hms` | <img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" > |
+| :----------------------------------------------------------- | -----------------------------------------------------------: |
 
 
 <h2></h2>
@@ -40,9 +28,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-
-**Interests and Contributions**
-- Robotics Teleoperation DIY
 
 <p>
  &nbsp;
