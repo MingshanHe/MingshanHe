@@ -2,13 +2,13 @@
 
 
 ### Hey 👋, I am Mingshan (Beal) He 😀.
-  I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a Control Engineer 👨‍💻 Experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and now work in Prof Yuzhe Li's group as research assistant, NEU. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, and welcome to share your mind with me.
+  I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and a research assistant experience in NEU both HRC Laboratory and Prof Li Yuzhe's SOS group. Now, I am the Master Candidate in Seoul National University. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, and welcome to share your mind with me.
 
 ------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >🏫 Bachelor: Northeastern University
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >🏫 Bachelor: Northeastern University (Robot Science and Engineering)
 
-🌱 Major: Robot Science and Engineering
+🌱 Master: Seoul National University (Mechanical Engineering)
 
 📫 Email: [![Gmail Badge](https://img.shields.io/badge/-mshe.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshe.research@gmail.com)](mailto:mshe.research@gmail.com)
 
