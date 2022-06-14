@@ -6,9 +6,9 @@
 
 ------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >🏫 Bachelor: Northeastern University (Robot Science and Engineering)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingshanHe&show_icons=true" alt="Beal. Mingshan He's Stats" >🏫 Bachelor: Northeastern University (Robot Eng)
 
-🌱 Master: Seoul National University (Mechanical Engineering)
+🌱 Master: Seoul National University (ME)
 
 📫 Email: [![Gmail Badge](https://img.shields.io/badge/-mshe.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshe.research@gmail.com)](mailto:mshe.research@gmail.com)
 
