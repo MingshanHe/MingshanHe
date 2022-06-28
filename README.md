@@ -2,7 +2,7 @@
 
 
 ### Hey 👋, I am Mingshan (Beal) He 😀.
-  I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and a research assistant experience in NEU both HRC Laboratory and Prof Li Yuzhe's SOS group. Now, I am the Master Candidate in Seoul National University. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, and welcome to share your mind with me.
+  I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience in ROKAE (Beijing) Technology Co.,LTD 🏢 and a research assistant experience in NEU. Now, I am the Master Candidate in Seoul National University. I have a interest in **Compliant Control**, **Teleoperation**, **DIY in Robot**, **Soft Robot** and welcome to share your mind with me.
 
 ------
 
