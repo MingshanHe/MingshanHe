@@ -2,7 +2,7 @@
 
 
 ### Hey 👋, I am Mingshan (Beal) He 😀.
-  I am the Master Student in BioRobotics Laboratory in Seoul National University now. I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience and a research assistant experience. 
+  I am the Master Student in [BioRobotics Laboratory](https://www.biorobotics.snu.ac.kr/) in Seoul National University now. I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience and a research assistant experience. 
 
 ------
 
