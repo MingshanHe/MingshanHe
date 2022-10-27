@@ -52,11 +52,5 @@
  &nbsp;
 
  </p>
- <p align="left">
-  <!--<a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/visits/MingshanHe/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/MingshanHe">
-    <img src="https://badges.pufler.dev/years/MingshanHe?style=flat-square&color=black&logo=github">
-  </a>-->
-</p>
+ 
+![Metrics](https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FTokyo)
