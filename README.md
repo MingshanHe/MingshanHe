@@ -16,6 +16,9 @@
 
 :soccer: Team: 东北大学 浙江大学
 
+![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord)
+
+![Metrics](https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FTokyo)
 
 <h2></h2>
 
@@ -39,7 +42,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
 **Interests and Contributions**
-- Robotics Teleoperation DIY
+- Soft Robot & System Contribution(Mechanical and Electrical) & Control Algorithm
 
 <p>
  &nbsp;
