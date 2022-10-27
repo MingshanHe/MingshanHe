@@ -16,9 +16,12 @@
 
 :soccer: Team: 东北大学 浙江大学
 
-![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord)
+<!-- ![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord) -->
 
-![Metrics](https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FTokyo)
+<!-- ![Metrics](https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FTokyo) -->
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord" width="343" height="220"/>
+
+<img align="right" src="https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FTokyo" width="343" height="220"/>
 
 <h2></h2>
 
