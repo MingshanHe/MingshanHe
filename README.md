@@ -56,7 +56,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingshanHe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/MingshanHe)
 
 
-<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe"  width="343" /> </div>
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe" /> </div>
+<div align="right"> <img src="https://metrics.lecoq.io/MingshanHe" /> </div>
