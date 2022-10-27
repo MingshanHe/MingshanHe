@@ -2,6 +2,7 @@
 
 
 ### Hey 👋, I am Mingshan (Beal) He 😀.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;This+is+MINGSHAN+HE;Please+feel+free+to+contact;If+you+have+comments+or+questions;For+my+previous+contributions.)](https://git.io/typing-svg)
   I am the Master Student in [BioRobotics Laboratory](https://www.biorobotics.snu.ac.kr/) in Seoul National University now. I have graduated from Faculty of Robot Science and Engineering, Northeastern University (China), at 2021. And I have a control engineer 👨‍💻 experience and a research assistant experience. 
 
 ------
@@ -50,7 +51,12 @@
  &nbsp;
  &nbsp;
  &nbsp;
-
  </p>
 
-![Metrics](https://metrics.lecoq.io/MingshanHe?template=classic&config.timezone=Asia%2FBeijing)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingshanHe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/MingshanHe)
+
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe" /> </div>
