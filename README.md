@@ -58,5 +58,7 @@
 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe" /> </div>
+<p>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingshanHe&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> </div>
 <div align="right"> <img src="https://metrics.lecoq.io/MingshanHe" /> </div>
+</p>
