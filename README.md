@@ -20,7 +20,7 @@
 :soccer: Team: 东北大学 浙江大学
 <h2></h2>
 
-![MingshanHe's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord)
+<!-- ![MingshanHe's github activity graph](https://activity-graph.herokuapp.com/graph?username=MingshanHe&theme=nord) -->
 
 ------
 
@@ -57,12 +57,12 @@
 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingshanHe&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
-
-<table><tr>
+<!-- <table><tr>
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingshanHe&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> </td>
 <td> <img src="https://metrics.lecoq.io/MingshanHe" /> </td>
 </tr></table>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MingshanHe" /> </div> -->
 
